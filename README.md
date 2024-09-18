@@ -1,1 +1,1 @@
-In the reposetory i ahev done  javascript  Mini project for the practice
+In the reposetory i have done  javascript  Mini project for the practice
